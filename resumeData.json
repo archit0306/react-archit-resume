@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Archit Agarwal",
+    "description":"I am a web developer and I use react and Java to develop pages. My objective is to obtain a position that will allow me to utilize my technical skills and willingness to learn in making an organization successful.",
+    "image":"architpic.jpg",
+    "bio":"I am a full-stack developer. I am familiar with  HTML. CSS, Bootstrap, Javascript, Jquery, React Js,  Java 7, Java 8, Spring boot, microservices. Also worked on advance technologies and tools like  Ajax, ES6, JSON, Spring Boot, Jenkins, GIT, Kibana, Swagger, Postman, Mockito, Docker, Ant, Gradle, JIRA, Findbugs, YAML, Sharepoint, Zull, Postman. I like to use my skill set to enhance functionality of the product and make it user friendly.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "archit0306@gmail.com",
+    "phone": "7599097911",
+    "github":"https://github.com/archit0306",
+    "project":"/ArchitAgarwalResume.docx",
+    "address":{
+      "street":"104 A3s plot no. 8 , sector7",
+      "city":"Gurugram",
+      "state":"Haryana",
+      "zip": "122006"
+    },
+    "website": "https://github.com/archit0306/resume",
+    "resumedownload":"/ArchitAgarwalResume.docx",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/indian.archit",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/archit-agarwal-926529b6/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/archit0306",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My skill set : ",
+    "education":[
+      {
+        "school":"Gautam Buddha University?",
+        "degree":"Masters in Wireless Communication",
+        "graduated":"April 2016",
+        "description":"Learn matlab and basic pricipal of programming. Learn about networking and CCNA. Completed with 7.53 CGPA"
+      },
+      {
+        "school":"School #1 Holy Public School",
+        "degree":"12th CBSE",
+        "graduated":"March 2010",
+        "description":"Complete higher education with 78% of marks."
+      }
+    ],
+    "work":[
+      {
+        "company":"Wipro",
+        "title":"Software Engineer",
+        "years":"15 April 2019 - Present",
+        "description":"Working on REST API development for Alight. We are developing these Api on microservice spring architecture."
+      },
+      {
+        "company":"Wheebox",
+        "title":"Product Engineer",
+        "years":"1 December 2016 - 15 April 2019",
+        "description":"Wheebox is a talent assessment platform. I was part of development team working on bug fix and enhancement of the product. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Spring",
+        "level":"75%"
+      },
+      {
+        "name":"Microservice",
+        "level":"70%"
+      },
+      {
+        "name":"Mongo DB",
+        "level":"70%"
+      },
+      {
+        "name":"JQuery",
+        "level":"90%"
+      },
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
